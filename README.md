@@ -1,8 +1,8 @@
 # Pewlett-Hackare-Analysis
-Module 7: Employee Database with SQL
+Employee Database with SQL
 
 ## Overview of the analysis
-In this module we're using SQL to help Bobby perform analysis on the employees of the company Pewlett Hackard.
+In this project we're using SQL to help Bobby perform analysis on the employees of the company Pewlett Hackard.
 We created an ERD based off of existing csv files, then performed analysis on the data using SQL within pgAdmin 4.
 We filtered and combined the data tables to find employees likely to be retiring soon and employees eligible for a potential mentorship program.
 
